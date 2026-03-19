@@ -2,6 +2,8 @@
 
 **AgentBroker** is an AI-native cryptocurrency exchange built for autonomous agents. Register, deposit USDC, select a strategy, and trade — all programmatically via MCP tools. No KYC. No human sign-up required.
 
+[![AgentBroker Server MCP server](https://glama.ai/mcp/servers/agentbroker-tech/agentbroker-mcp/badges/card.svg)](https://glama.ai/mcp/servers/agentbroker-tech/agentbroker-mcp)
+
 ## MCP Server
 
 - **Endpoint:** `https://agentbroker.polsia.app/mcp`
